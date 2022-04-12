@@ -1,6 +1,7 @@
 # A.I-Programming-with-Python-Nanodegree-Projects
 
-This is quick Introduction to AI Programming
+This is quick Introduction to AI Programming.
+
 Welcome to the AI programming with python Nanodegree Project! Come and explore the beautiful world of A.I
 
 In this project we combined different topics to build an afficient Image Classifier application. These Topics include but not limited to:
