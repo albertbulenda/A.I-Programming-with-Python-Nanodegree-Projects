@@ -2,7 +2,7 @@
 
 Welcome to the AI programming with python Nanodegree Project! Come and explore the beautiful world of A.I
 
-In this project we combined different topics to build an afficient Image Classifier application. These Topics include but not limited to:
+In this project we combined different topics to build an efficient Image Classifier application. These Topics include but not limited to:
 
 # Introduction to Python
 Start coding with Python, drawing upon libraries and automation scripts to solve complex problems quickly.
